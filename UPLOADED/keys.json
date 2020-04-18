@@ -1,0 +1,7 @@
+{
+    "dist_cert_key": "MyAround25",
+    "release_env_key": {
+      "staging": "9115743c1c01e2c2c59a813cb0a9573ab918c2620f64e19b1b35ece1b6f28313",
+      "production": "9115743c1c01e2c2c59a813cb0a9573ab918c2620f64e19b1b35ece1b6f28313"
+    }
+  }
